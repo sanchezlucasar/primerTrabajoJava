@@ -29,7 +29,7 @@ public class Main {
          System.out.println("el coche ahora tiene :"+miCoche.getPuertas()+" puertas");
 
     }
-
+    //Creamos la Funcion suma. que tendra 3 parametros, y devolverá la suma de los 3, en este caso 3 enteros
     public static int suma(int a, int b, int c){
         return a+b+c;
     }
